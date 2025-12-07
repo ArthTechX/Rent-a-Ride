@@ -69,6 +69,78 @@ A full-scale Car Rental Platform with user, admin, and vendor modules, designed 
 * Order Notifications: Vendors receive updates on orders when users book their vehicles.
 
 ##
+# Rent a Ride
+
+**Creator:** Arth
+
+This repository contains the code for a Full stack car rental website with 3 modules User,Admin,Vendor . The project is divided into Client  and  backend 
+
+
+## Installation
+
+Clone Rent a Ride
+
+```bash
+https://github.com/jeevan-aj/Rent-a-Ride.git
+```
+
+Install node modules
+
+```bash
+  cd backend
+  npm install
+  npm run dev
+```
+```bash
+  cd client
+  npm install
+  npm run dev
+```
+
+    
+## Tech Stack
+
+**Client:** React, Javascript, Redux Toolkit, Material Ui, TailwindCSS, React Toast 
+
+**Server:** Express.js, Mongodb, Cloudinary, Nodemailer , Multer
+
+**Deployed frontend and backend  On AWS ec2, Nginx as Reverse Proxy ,Cloudflare as Dns resolver ,Used Pm2 for uptime**
+
+
+## Project Description
+A full-scale Car Rental Platform with user, admin, and vendor modules, designed to offer seamless vehicle booking, management, and administration. The platform is developed using modern technologies to ensure smooth and efficient operations, catering to different user roles with distinct functionalities.
+
+##
+
+**Key Features & Modules:**
+
+**User Module:**
+
+* View and Book Vehicles: Users can view available vehicles and book them online.
+* Profile Management: Users can view and edit their profiles, as well as manage their account settings.
+* Order Management: View past and upcoming orders; users can only access their own bookings.
+* Account Management: Users can sign up, sign in, delete their account, and sign out seamlessly.
+* Email Notifications: After booking a vehicle, users receive an email with order details.
+
+**Admin Module:**
+
+* Booking Management: Admins can view and manage bookings, including booking details and statuses.
+
+* Vendor Management: View and approve/reject vendors, as well as remove vendors from the platform.
+
+* Vehicle Management: Admins can view, update, and delete vehicle listings.
+
+* User Management: Admins have the ability to remove users from the platform.
+
+**Vendor Module:**
+
+* Sign Up and Sign In: Separate sign-up and sign-in flow for vendors.
+
+* Vehicle Listing: Vendors can add their vehicles to the platform for approval by the admin. Approved vehicles will be listed on the site.
+
+* Order Notifications: Vendors receive updates on orders when users book their vehicles.
+
+##
 
 **Technology Stack:**
 
@@ -133,3 +205,4 @@ A full-scale Car Rental Platform with user, admin, and vendor modules, designed 
 
 
 
+ 
