@@ -9,7 +9,10 @@ This repository contains the code for a Full stack car rental website with 3 mod
 Clone Rent a Ride
 
 ```bash
-https://github.com/jeevan-aj/Rent-a-Ride.git
+https://github.com/ArthTechX/Rent-a-Ride.git
+```
+```bash
+https://github.com/ArthTechX/Rent-a-Ride.git
 ```
 
 Install node modules
@@ -81,7 +84,7 @@ This repository contains the code for a Full stack car rental website with 3 mod
 Clone Rent a Ride
 
 ```bash
-https://github.com/jeevan-aj/Rent-a-Ride.git
+https://github.com/ArthTechX/Rent-a-Ride.git
 ```
 
 Install node modules
@@ -179,7 +182,7 @@ A full-scale Car Rental Platform with user, admin, and vendor modules, designed 
 * Version Control: Employed Git throughout the project for version control, collaboration, and backup.
 ## Screenshots
 
-//user
+
 <img width="1440" alt="Screenshot 2024-04-06 at 3 06 32 PM" src="https://github.com/user-attachments/assets/4b769f7d-5d2c-43a7-8283-07fa8402de92">
 <img width="1430" alt="Screenshot 2024-12-10 at 12 35 41 AM" src="https://github.com/user-attachments/assets/5d6e0160-5f1d-4e67-a64e-1e18fb17a590">
 <img width="1425" alt="Screenshot 2024-12-10 at 12 35 58 AM" src="https://github.com/user-attachments/assets/ac6b0f33-344e-4009-a979-23ea7dc3a5bb">
